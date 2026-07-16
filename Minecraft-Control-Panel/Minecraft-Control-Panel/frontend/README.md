@@ -1,1 +1,0 @@
-Frontend React panel will be added here.
