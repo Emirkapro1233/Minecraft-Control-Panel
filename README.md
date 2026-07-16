@@ -1,10 +1,10 @@
-# Minecraft Control Panel
+# Minecraft Control Panel v2
 
-Panel for managing real Minecraft servers on a PC.
+React frontend for Minecraft server management.
 
-Features planned:
-- Server creation
-- Core installer
-- Console
-- File manager
-- Player management
+Added:
+- Dashboard
+- Server page structure
+- Console page
+- File manager page
+- API ready architecture
