@@ -1,10 +1,9 @@
-# Minecraft Control Panel v2
+# Minecraft Control Panel - Pterodactyl Like v1
 
-React frontend for Minecraft server management.
+Custom Minecraft server management panel.
 
-Added:
-- Dashboard
-- Server page structure
-- Console page
-- File manager page
-- API ready architecture
+Components:
+- frontend
+- backend API
+- local agent
+- database
